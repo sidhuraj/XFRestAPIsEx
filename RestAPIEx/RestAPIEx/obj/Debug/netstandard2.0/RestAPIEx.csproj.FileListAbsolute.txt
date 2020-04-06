@@ -1,0 +1,14 @@
+C:\Users\santosh\source\repos\RestAPIEx\RestAPIEx\RestAPIEx\bin\Debug\netstandard2.0\RestAPIEx.deps.json
+C:\Users\santosh\source\repos\RestAPIEx\RestAPIEx\RestAPIEx\bin\Debug\netstandard2.0\RestAPIEx.dll
+C:\Users\santosh\source\repos\RestAPIEx\RestAPIEx\RestAPIEx\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\santosh\source\repos\RestAPIEx\RestAPIEx\RestAPIEx\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\santosh\source\repos\RestAPIEx\RestAPIEx\RestAPIEx\obj\Debug\netstandard2.0\RestAPIEx.AssemblyInfoInputs.cache
+C:\Users\santosh\source\repos\RestAPIEx\RestAPIEx\RestAPIEx\obj\Debug\netstandard2.0\RestAPIEx.AssemblyInfo.cs
+C:\Users\santosh\source\repos\RestAPIEx\RestAPIEx\RestAPIEx\bin\Debug\netstandard2.0\ref\RestAPIEx.dll
+C:\Users\santosh\source\repos\RestAPIEx\RestAPIEx\RestAPIEx\bin\Debug\netstandard2.0\RestAPIEx.pdb
+C:\Users\santosh\source\repos\RestAPIEx\RestAPIEx\RestAPIEx\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\santosh\source\repos\RestAPIEx\RestAPIEx\RestAPIEx\obj\Debug\netstandard2.0\RestAPIEx.dll
+C:\Users\santosh\source\repos\RestAPIEx\RestAPIEx\RestAPIEx\obj\Debug\netstandard2.0\ref\RestAPIEx.dll
+C:\Users\santosh\source\repos\RestAPIEx\RestAPIEx\RestAPIEx\obj\Debug\netstandard2.0\RestAPIEx.pdb
+C:\Users\santosh\source\repos\RestAPIEx\RestAPIEx\RestAPIEx\obj\Debug\netstandard2.0\RestAPIEx.csprojAssemblyReference.cache
+C:\Users\santosh\source\repos\RestAPIEx\RestAPIEx\RestAPIEx\obj\Debug\netstandard2.0\EmpRegistrationPage.xaml.g.cs

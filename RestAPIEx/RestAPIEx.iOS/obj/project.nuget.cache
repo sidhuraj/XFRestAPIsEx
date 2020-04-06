@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OTEevpXcdvuqFkpnHPrcp6uWTojoFklMa0zYypvPT5q1H1vSoldMaL5oNK43S5TZNabUfIQxZDxoLrORTSkW4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santosh\\source\\repos\\RestAPIEx\\RestAPIEx\\RestAPIEx.iOS\\RestAPIEx.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santosh\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\santosh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\santosh\\.nuget\\packages\\xamarin.essentials\\1.2.0\\xamarin.essentials.1.2.0.nupkg.sha512",
+    "C:\\Users\\santosh\\.nuget\\packages\\xamarin.forms\\4.2.0.709249\\xamarin.forms.4.2.0.709249.nupkg.sha512"
+  ],
+  "logs": []
+}
